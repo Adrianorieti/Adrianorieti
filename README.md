@@ -11,6 +11,6 @@ You can contact me at paceadrianolavoro@gmail.com, I will glad to answer you.
 Peace
 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Adrianorieti)](https://github.com/Adrianorieti)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianorieti&layout=compact)](https://github.com/Adrianorieti)
