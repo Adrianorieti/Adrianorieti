@@ -1,11 +1,12 @@
 Hi there! I'm Adriano Pace, CS student and programmer in Bologna.
 
 My main interests are: sysadministration, cybersecurity, linux.
-My favourite languages are <b>bash</b> and "what else do you need  after bash ???? ".
+My favourite languages are <b>bash</b> and "what else do you need  after bash ? ".
 I also deal with C and javascript programming.
-Always looking out to get more experience in the tech world.
-My main interest is <b>cybersecurity</b> and i love Ctfs.
+Always looking out to get more experience.
+I started my real journey in the tech world the first day of University, and i'm doing my best to grow up as a skilled IT guy.
 
+I'm also in love with martial arts and good music.
 You can contact me at paceadrianolavoro@gmail.com, I'll be glad to answer you.
 Peace
 
