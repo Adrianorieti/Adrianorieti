@@ -1,8 +1,8 @@
 Hi there! I'm Adriano Pace, CS student and programmer in Bologna.
 
-My main interests are: sysadministration, cybersecurity, linux.
+My main interests are: sysadministration, cybersecurity, linux, reverse engeneering ( <3 <3 ).
 My favourite languages are <b>bash</b> and "what else do you need  after bash ? ".
-I also deal with C and javascript programming.
+I also deal with C, python and javascript programming.
 Always looking out to get more experience.
 I started my real journey in the tech world the first day of University, and i'm doing my best to grow up as a skilled IT guy.
 
