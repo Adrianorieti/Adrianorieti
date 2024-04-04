@@ -1,7 +1,7 @@
-Hi there! I'm Adriano Pace, CS student and programmer in Bologna.
+Hi there! I'm Adriano Pace, CS enthusiast.
 
-I'm a curious guy constantly looking for something new to learn in the IT world.
-I love Linux and cybersec related stuffs.
+I'm a curious guy constantly looking for something new to learn around the IT world.
+I love Linux and cybersec related stuffs, like reverse engeneering, ctfs, sysadministration and so on.
 
 You can contact me at paceadrianolavoro@gmail.com, I'll be glad to answer you.
 Peace
